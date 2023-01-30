@@ -1,0 +1,4 @@
+interface Clothes{
+    
+    String toString();
+}
